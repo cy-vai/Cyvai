@@ -1,6 +1,6 @@
 ---  
 title: アイデアロス現象  
-author: Sakura ARC  
+author: 45ns  
 date: 2025-06-22  
 tags: [AI, 創造性, アイデア経済, Cyvai]  
 ---
