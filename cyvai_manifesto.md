@@ -37,7 +37,7 @@ Cyvaiは、Yesである。
 
 ---
 
-*本マニフェストは、「45ns」によって構想された、思想インフラ実験『Cyvai』プロジェクトの一環として執筆されました。技術的完成度よりも、思想の構造と可能性を問うために公開されています。*
+*本マニフェストは、「Haru Minamo」によって構想された、思想インフラ実験『Cyvai』プロジェクトの一環として執筆されました。技術的完成度よりも、思想の構造と可能性を問うために公開されています。*
 
 ---
 
@@ -80,5 +80,5 @@ Cyvai answers: Yes.
 
 ---
 
-*This manifesto was written by “45ns,” an independent creator, as part of the Cyvai project—an experimental infrastructure for the future of thought. It is published not for technical perfection, but to provoke a rethinking of how ideas are treated.*
+*This manifesto was written by “Haru Minamo,” an independent creator, as part of the Cyvai project—an experimental infrastructure for the future of thought. It is published not for technical perfection, but to provoke a rethinking of how ideas are treated.*
 

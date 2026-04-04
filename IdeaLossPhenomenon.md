@@ -1,6 +1,6 @@
 ---
 title: The Idea Loss Phenomenon
-author: 45ns
+author: Haru Minamo
 date: 2025-06-22
 tags: [AI, creativity, idea economy, Cyvai]
 ---
