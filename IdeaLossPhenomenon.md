@@ -47,9 +47,9 @@ This investment surge has transformed patent landscapes and innovation patterns.
 
 Investment data confirms this transformation across sectors. Global venture capital investment in AI companies exceeded $100 billion in 2024, representing an 80% increase from $55.6 billion in 2023. Generative AI funding specifically reached approximately $45 billion in 2024, nearly doubling from $24 billion in 2023. Healthcare AI attracted $5.6 billion in investment, while financial technology AI was valued at $17 billion, projected to reach $70.1 billion by 2033.
 
-## The emerging crisis of idea implementation and preservation
+## The Idea Loss Phenomenon: An Unprecedented Scale of Knowledge Loss in Human History
 
-Despite this explosion in creative capacity, critical warning signs indicate massive idea loss at unprecedented scales. The data reveals a troubling disconnect between idea generation and implementation that may represent the largest waste of human creative potential in history.
+Beneath this explosion in creative capacity, an "unprecedented scale of knowledge loss (Idea Loss)" is occurring in real-time. The data reveals a troubling disconnect between idea generation and implementation that signifies the largest waste of human creative potential in history.
 
 **Longitudinal studies reveal declining engagement with generated ideas**. A comprehensive study of 222 Dutch higher education students showed **significant decline in ChatGPT usage behavior over an 8-month period**, with changes in trust and perceived behavioral control predicting usage abandonment. This pattern suggests that initial enthusiasm for AI-generated ideas may not translate into sustained development or implementation.
 
